@@ -6,7 +6,7 @@ This Power BI report analyzes coffee brand reviews to provide insights into qual
 
 ## Live Dashboard Access
 
-You can access the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTJiOGNjMjgtOTUxNi00ODUzLTkxNTAtNzZlODRlYmY1NjY1IiwidCI6IjgzNjg3YmJjLTBkNzEtNDljYS05ODkwLTA2MmNjNjliMmQ4MCJ9&embedImagePlaceholder=true).
+You can access the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTJiOGNjMjgtOTUxNi00ODUzLTkxNTAtNzZlODRlYmY1NjY1IiwidCI6IjgzNjg3YmJjLTBkNzEtNDljYS05ODkwLTA2MmNjNjliMmQ4MCJ9&embedImagePlaceholder=true&pageName=0d8226cc65bb04473053).
 
 ## Preview
 
